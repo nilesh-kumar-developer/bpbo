@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/activity_main.xml" value="0.11930091185410334" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/activity_auth.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/content_auth.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/content_main.xml" value="0.2128205128205128" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/fragment_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/fragment_reset.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/fragment_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/fragment_verify.xml" value="0.11614583333333334" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/layout/item_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/AndroidStudioProjects/bpbo/app/src/main/res/menu/menu.xml" value="0.259375" />
       </map>
     </option>
   </component>

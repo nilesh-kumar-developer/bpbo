@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914822613636",
+    "project_id": "bpbo-college-majorproject",
+    "storage_bucket": "bpbo-college-majorproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914822613636:android:702282334ead86ce7650d1",
+        "android_client_info": {
+          "package_name": "us.nilesh.bpbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914822613636-3pfv18hvd0v3o3pci6rpntiu6ab1m5av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cRdnc9n2WVhn9CWpOLJgt7JP9JDZTf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914822613636-3pfv18hvd0v3o3pci6rpntiu6ab1m5av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

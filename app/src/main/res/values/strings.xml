@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">bpbo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="changePass">Change Password</string>
+    <string name="changePassDescrip">Enter your registered Email-ID. We will send you and email to reset the password.</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="bts">Back to Sign-In</string>
+    <string name="TandC">Terms And Conditions</string>
+    <string name="blank">"______"</string>
+    <string name="TandC2">...</string>
+    <string name="TandC1">.....</string>
+    <string name="TandC3">......</string>
+    <string name="TandC4">...........</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="registerAs">Register Here</string>
+    <string name="retry">Resend Email</string>
+    <string name="verificationMsg">Verification Pending...</string>
+    <string name="retryMsg">We\'ve sent you an email, click the link in email to verify as authenticated user.</string>
+    <string name="details">Details</string>
+    <string name="donate">Donate</string>
+    <string name="raise_a_request">Raise a Request</string>
 </resources>
